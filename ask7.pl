@@ -1,0 +1,1 @@
+my %fruits=("apple"=>"red","banana"=>"yllow");
